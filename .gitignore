@@ -1,0 +1,90 @@
+# Node.js
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# Angular
+/dist/
+/tmp/
+/ngu-i18n/
+/*.ngsummary.json
+/*.ngfactory.ts
+/*.js.map
+/*.js
+/*.d.ts
+/*.metadata.json
+/.ng_build/
+/.ng_package/
+*.ngc.*
+*.ng-pkg.*
+*.ngfactory.zip
+/lib-dist/
+/libs-dist/
+/lib-umd/
+/libs-umd/
+/libs-bundles/
+/apps-dist/
+/libs-dist/
+/nx-dist/
+/.ng_build/
+/.ngcache/
+/srtest
+/nrwl-workspaces/
+/nrwl-cypress/
+
+# pnpm
+/pnpm-debug.log
+pnpm-lock.yaml
+
+# VSCode
+.vscode/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java classes
+*.class
+
+# Compiled TypeScript
+*.tsbuildinfo
+
+# Compiled JavaScript
+*.js
+
+# Dependency directories
+**/node_modules/
+**/bower_components/
+
+# TypeScript
+*.tsbuildinfo
+*.tsbak
+*.ts~
+
+# Testing
+/coverage/
+/nyc_output/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
