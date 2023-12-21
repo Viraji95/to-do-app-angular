@@ -1,0 +1,23 @@
+{
+  "hash": "3dde2de9",
+  "browserHash": "50360c7b",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/.pnpm/@angular+core@17.0.7_rxjs@7.8.1_zone.js@0.14.2/node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "84267747",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/.pnpm/@angular+platform-browser@17.0.7_@angular+animations@17.0.7_@angular+common@17.0.7_@angular+core@17.0.7/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "3ae96336",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-C53ODEGI": {
+      "file": "chunk-C53ODEGI.js"
+    }
+  }
+}
